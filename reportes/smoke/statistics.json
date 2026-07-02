@@ -1,0 +1,34 @@
+{
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 5,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 320.2,
+    "medianResTime" : 309.0,
+    "minResTime" : 197.0,
+    "maxResTime" : 566.0,
+    "pct1ResTime" : 566.0,
+    "pct2ResTime" : 566.0,
+    "pct3ResTime" : 566.0,
+    "throughput" : 3.109452736318408,
+    "receivedKBytesPerSec" : 11591.632899953358,
+    "sentKBytesPerSec" : 0.37349871735074625
+  },
+  "GET Movies " : {
+    "transaction" : "GET Movies ",
+    "sampleCount" : 5,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 320.2,
+    "medianResTime" : 309.0,
+    "minResTime" : 197.0,
+    "maxResTime" : 566.0,
+    "pct1ResTime" : 566.0,
+    "pct2ResTime" : 566.0,
+    "pct3ResTime" : 566.0,
+    "throughput" : 3.109452736318408,
+    "receivedKBytesPerSec" : 11591.632899953358,
+    "sentKBytesPerSec" : 0.37349871735074625
+  }
+}

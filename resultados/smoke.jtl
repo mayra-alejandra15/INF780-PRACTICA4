@@ -1,0 +1,6 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1782958678464,521,GET Movies,200,OK,Thread GroupSF 1-1,text,true,,5248225,122,1,1,http://localhost:3000/movies,496,0,26
+1782958678988,455,GET Movies,200,OK,Thread GroupSF 1-1,text,true,,5248225,122,1,1,http://localhost:3000/movies,445,0,0
+1782958679444,457,GET Movies,200,OK,Thread GroupSF 1-1,text,true,,5248225,122,1,1,http://localhost:3000/movies,445,0,0
+1782958679902,389,GET Movies,200,OK,Thread GroupSF 1-1,text,true,,5248225,122,1,1,http://localhost:3000/movies,377,0,0
+1782958680294,353,GET Movies,200,OK,Thread GroupSF 1-1,text,true,,5248225,122,1,1,http://localhost:3000/movies,342,0,0
