@@ -143,8 +143,10 @@ Los reportes HTML se encuentran en las carpetas:
 
 # Autor
 
-**Mayra Alejandra Mamani Quispe** 
-**Anahi Gutierrez Cardenas** 
+**Mayra Alejandra Mamani Quispe** ,
+
+**Anahi Gutierrez Cardenas**
+
 Ingeniería Informática
 
 Universidad Autónoma Tomás Frías (UATF)
